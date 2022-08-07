@@ -1,0 +1,6 @@
+[book]
+authors = ["Aakash Sen Sharma"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Learn Wlroots"
